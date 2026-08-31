@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b5cff,100:00d4ff&height=190&section=header&text=Ashwin%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b5cff,100:00d4ff&height=190&section=header&text=Ashwin%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/xernix-2007">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+useful+software+%F0%9F%9A%80;Learning+DSA+in+C%2B%2B+%F0%9F%A7%A0;Exploring+AI%2FML+%26+Data+Science+%F0%9F%A4%96;Turning+ideas+into+working+projects+%F0%9F%94%A5" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=C%2B%2B+Developer+%F0%9F%92%BB;AI%2FML+Practitioner+%F0%9F%A4%96;Data+Science+%26+Analytics+%F0%9F%93%8A;DSA+Problem+Solver+%F0%9F%A7%A0;Building+Intelligent+Applications+%F0%9F%9A%80;Turning+Ideas+Into+Working+Software+%E2%9A%A1" alt="Typing animation"/>
 </a>
 
 <p>
@@ -17,13 +17,13 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science & Engineering student focused on **problem solving, AI/ML and building practical software**.
+I'm a Computer Science & Engineering student focused on **problem solving, AI/ML and developing practical software**.
 
 - 💻 DSA & competitive programming with **C++**
-- 🤖 Learning **Data Science, Machine Learning & AI**
-- 🛠️ Building projects instead of only following tutorials
-- 📚 Currently progressing through **Binary Search → Linked List → Trees → Graphs → DP**
-- 🎯 Goal: become internship-ready through strong fundamentals and real projects
+- 🤖 Developing skills in **AI/ML and Data Science**
+- 🛠️ Creating practical applications from ideas
+- 📚 Progressing through **Binary Search → Linked List → Trees → Graphs → DP**
+- 🎯 Preparing for software/AI internships through fundamentals + real projects
 
 ---
 
@@ -31,16 +31,13 @@ I'm a Computer Science & Engineering student focused on **problem solving, AI/ML
 
 <div align="center">
 
-### Languages
-
+### 💻 Programming
 <img src="https://skillicons.dev/icons?i=cpp,python,c&theme=dark" alt="C++, Python, C"/>
 
-### AI / Data
-
+### 🤖 AI • Data • ML
 <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn&theme=dark" alt="Python, NumPy, Pandas, scikit-learn"/>
 
-### Development & Tools
-
+### 🧩 Development • Tools
 <img src="https://skillicons.dev/icons?i=git,github,flutter,fastapi,postgresql,sqlite,vscode&theme=dark" alt="Git, GitHub, Flutter, FastAPI, PostgreSQL, SQLite, VS Code"/>
 
 </div>
@@ -68,7 +65,7 @@ I'm a Computer Science & Engineering student focused on **problem solving, AI/ML
 
 ### 🎙️ Xernix
 
-A personal desktop assistant exploring **voice interaction, automation and local AI**.
+A personal desktop assistant focused on **voice interaction, automation and local AI workflows**.
 
 `Python` `Voice AI` `Automation` `Local LLM`
 
@@ -141,9 +138,9 @@ Pet-care service concept for discovering vets, groomers and sitters with appoint
 
 <div align="center">
 
-### Learn deeply. Build consistently. Ship useful software.
+### Learn deeply. Develop relentlessly. Ship useful software.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=500&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat" alt="Learning loop animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=560&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat;Solve+%E2%86%92+Ship+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Learning loop animation"/>
 
 </div>
 
