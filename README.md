@@ -4,7 +4,7 @@
 
 ### `CSE Student • DSA • AI/ML • Developer`
 
-Building projects, solving problems, and learning how things work under the hood.
+Building practical software, learning AI/ML, and getting stronger at problem solving.
 
 [![GitHub](https://img.shields.io/badge/GitHub-xernix--2007-181717?style=for-the-badge&logo=github)](https://github.com/xernix-2007)
 
@@ -12,122 +12,63 @@ Building projects, solving problems, and learning how things work under the hood
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
 - 🎓 Computer Science & Engineering student
-- 🧠 Currently strengthening **Data Structures & Algorithms with C++**
-- 🤖 Exploring **Data Science, Machine Learning & AI**
-- 🛠️ Building practical software and AI-powered projects
-- 🎯 Goal: become internship-ready through strong fundamentals and real projects
+- 💻 Solving **DSA problems in C++** and learning algorithmic patterns
+- 🤖 Exploring **Data Science, Machine Learning and AI**
+- 🛠️ Building practical projects instead of only following tutorials
+- 🎯 Working toward being **internship-ready through fundamentals + real projects**
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Skills I'm Building
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Data & AI
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Area | Focus |
+|---|---|
+| **Programming** | C++, Python, C |
+| **DSA** | Arrays, Binary Search, Linked Lists, Trees, Graphs, DP |
+| **Data Science** | NumPy, Pandas, Data Analysis, Machine Learning |
+| **AI** | Local AI workflows, voice interaction, intelligent applications |
+| **Development** | Git, GitHub, APIs, application development |
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🧠 [DayFlow AI](https://github.com/xernix-2007/DayFlow-AI)
+A personal productivity system designed around time-blocked planning, focus tracking, analytics and future ML-based personalization.
 
-### 🧠 DayFlow AI
+**Stack:** Flutter • SQLite • FastAPI (planned) • PostgreSQL (planned) • ML (planned)
 
-An AI-powered productivity project focused on helping users manage their day more intelligently.
+### 🎙️ [Xernix](https://github.com/xernix-2007/xernix)
+My personal assistant project, exploring voice interaction, desktop automation and local AI workflows.
 
-**Focus:** AI • Productivity • Application Development
+**Stack:** Python • Voice AI • Automation • Local LLM
 
-[View Repository →](https://github.com/xernix-2007/DayFlow-AI)
+### 📊 [Expense Tracker with ML](https://github.com/xernix-2007/expense-tracker-with-ML-model)
+A Python CLI expense tracker that stores records in CSV and uses Linear Regression to explore future expense prediction.
 
-</td>
-<td width="50%">
+**Stack:** Python • CSV • Machine Learning
 
-### 🎙️ Xernix
+### 🐾 [PawPal](https://github.com/xernix-2007/pawpal)
+A pet-care service concept connecting pet owners with vets, groomers and sitters through service discovery and appointment booking.
 
-A personal AI assistant exploring voice interaction, automation and local AI workflows.
-
-**Focus:** Python • Voice AI • Automation • Local LLM
-
-[View Repository →](https://github.com/xernix-2007/xernix)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Expense Tracker ML
-
-An expense-tracking project exploring machine learning for personal finance insights.
-
-**Focus:** Python • Machine Learning • Data
-
-[View Repository →](https://github.com/xernix-2007/expense-tracker-with-ML-model)
-
-</td>
-<td width="50%">
-
-### 💻 DSA & LeetCode
-
-A growing collection of DSA solutions while building pattern recognition and problem-solving skills in C++.
-
-**Focus:** C++ • Algorithms • Problem Solving
-
-[View Repository →](https://github.com/xernix-2007/My_Leetcode)
-
-</td>
-</tr>
-</table>
+**Focus:** Product thinking • Web development • User experience
 
 ---
 
-## 🧩 Current Learning Roadmap
+## 📚 DSA Progress
 
-```text
-DSA / C++
-├── Arrays & Strings
-├── Binary Search
-├── Linked Lists
-├── Stack & Queue
-├── Trees
-├── Graphs
-└── Dynamic Programming
+Currently building problem-solving ability step by step:
 
-AI / Data Science
-├── Python
-├── NumPy
-├── Pandas
-├── Data Analysis
-├── Machine Learning
-└── Real-world Projects
+`Arrays` → `Strings` → `Binary Search` → `Linked List` → `Stack/Queue` → `Trees` → `Graphs` → `Dynamic Programming`
 
-Development
-├── Git & GitHub
-├── APIs
-├── Backend
-└── Production Projects
-```
+My solutions are maintained in my LeetCode repository as I work through interview patterns.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
@@ -135,10 +76,6 @@ Development
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xernix-2007&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🔥 Contribution Activity
 
 <div align="center">
 
@@ -150,9 +87,7 @@ Development
 
 ## 🎯 2026 Goal
 
-> **Learn deeply → Build consistently → Solve harder problems → Ship real projects.**
-
----
+> **Learn deeply. Build consistently. Solve harder problems. Ship useful software.**
 
 <div align="center">
 
